@@ -65,8 +65,8 @@ cisco-vlan-project/
 
 ## 👤 Yazar
 
-**[Adın Soyadın]**  
-Bilgisayar Mühendisliği / Bilgisayar Teknolojileri — [Üniversite Adı]  
+Yaren GÖNAY  
+Bilgisayar Programcılığı - Okan Üniversitesi  
 📅 Ocak 2026
 
 ---
